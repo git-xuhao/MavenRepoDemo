@@ -1,0 +1,2 @@
+# MavenRepoDemo
+这是一个演示上传库到私服maven仓库的项目的Demo
