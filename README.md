@@ -38,7 +38,7 @@ Android Studio Gradle 主要支持两个 Maven 中央库：mavenCentral 和 jcen
 **Gradle** 是一个基于Apache Ant和Apache Maven概念的项目自动化建构工具。它使用一种基于Groovy的特定领域语言来声明项目设置，而不是传统的XML
 
 
-**二、使用Nexus搭建maven私服 **
+**二、使用Nexus搭建maven私服**
 --------
 ### 1.Nexus  下载安装：
 官网下载地址：http://www.sonatype.org/nexus/go/，我的开发环境是Windows，我下载的是Nexus Repository Manager OSS 2.xx下面的 All platforms	nexus-2.13.0-01-bundle.zip压缩文件。↓
