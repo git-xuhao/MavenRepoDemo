@@ -221,6 +221,7 @@ artifacts {
 ```
 
 1.  在as右边栏，找到Gradle打开如下：
+
     ![这里写图片描述](http://img.blog.csdn.net/20160830203919352)
 
 然后双击uploadArchives，编译脚本并上传arr文件到私有仓库，最后在控制台可以看到日志是否上传成功。
