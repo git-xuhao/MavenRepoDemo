@@ -257,7 +257,7 @@ artifacts {
  [Nexus私服使Maven更加强大](http://blog.csdn.net/liujiahan629629/article/details/39272321)
 
  [拥抱的androidStudio 系列文章 博客比较全](http://kvh.io/tags/EmbraceAndroidStudio/)
-
+  
 
 # License
 
