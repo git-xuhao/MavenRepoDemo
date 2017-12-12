@@ -1,7 +1,7 @@
 # MavenRepoDemo
 
 
-###原文出处：[http://xuhaoblog.com/2016/08/30/maven.html](http://xuhaoblog.com/2016/08/30/maven.html)
+### 原文出处：[http://xuhaoblog.com/2016/08/30/maven.html](http://xuhaoblog.com/2016/08/30/maven.html)
 
 
 **一、什么是Maven,Gradle?**
@@ -76,7 +76,7 @@ Android Studio Gradle 主要支持两个 Maven 中央库：mavenCentral 和 jcen
 
 **Releases:** 用来部署管理内部的发布版本构件的宿主类型仓库
 
-**Snapshots:**用来部署管理内部的快照版本构件的宿主类型仓库
+**Snapshots:** 用来部署管理内部的快照版本构件的宿主类型仓库
 
 ### 4.建立Nexus宿主仓库
  新建一个内部仓库，步骤为Repositories –> Add –> Hosted Repository，在页面的下半部分输入框中填入Repository ID和Repository Name即可，另外把Deployment Policy设置为**Allow Redeploy**，点击save就创建完成了。这里我点击添加宿主类型的仓库，在仓库列表的下方会出现新增仓库的配置，如下所示：
@@ -251,7 +251,7 @@ artifacts {
 对于频繁更新的子项目是否适合采用这种方式。因为每次变动都需要上传，而主项目在引用该AAR的时候则需要每次都去检查是否更新， 这会使得编译时间大大增加，有了这个maven库，就不用那么麻烦了。
 
 
-**想了解更多有关的资料：**
+** 想了解更多有关的资料：**
 ---
 
  [Nexus私服使Maven更加强大](http://blog.csdn.net/liujiahan629629/article/details/39272321)
