@@ -1,9 +1,6 @@
 # MavenRepoDemo
 
 
-### 原文出处：[http://xuhaoblog.com/2016/08/30/maven.html](http://xuhaoblog.com/2016/08/30/maven.html)
-
-
 **一、什么是Maven,Gradle?**
 ----------
 
